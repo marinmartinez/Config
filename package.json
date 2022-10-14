@@ -8,7 +8,7 @@
         "test": "jest",
         "lint": "eslint",
         "prepare": "husky install",
-        "test:watch": "jest --watchAll"
+        "test:watch": "jest --watchAll --coverage"
     },
     "author": "",
     "license": "ISC",
